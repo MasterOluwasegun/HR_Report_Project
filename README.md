@@ -8,7 +8,7 @@ In this project, we explore a dataset containing employee records from an HR dep
 
 ## HR_Visualization_Dashboard
 
-![Makedown image]()
+![Makedown image](https://github.com/MasterOluwasegun/HR_Report_Project/blob/main/HR_visualization_Dashboard.png?raw=true)
 
 ## Key Questions Explored
 
